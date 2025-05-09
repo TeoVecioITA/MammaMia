@@ -78,7 +78,10 @@
         "DaddyLiveHD": {
             "url": "https://daddylive.dad",
             "enabled": "1"
-        }
+        },
+        "AnimeUnity": {
+            "url": "https://www.animeunity.so",
+            "enabled": "1"
     },
     "General": {
         "load_env": "0",
