@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 
 def get_domains(pastebin_url):
     """
-    Recuper il contenuto del Pastebin con i domini.
+    Recupera il contenuto del Pastebin con i domini.
     :param pastebin_url: URL del Pastebin da cui recuperare i domini.
     :return: Lista dei domini dal file Pastebin.
     """
